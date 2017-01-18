@@ -1,5 +1,6 @@
 # ScrollFast
 Scroll Fast
+
 You can find more information in this **[blog](http://thedeveloperworldisyours.com/android/fast-scroll-in-listview/#sthash.nF7KsTal.dpbs)**
 
 <p align="center">
