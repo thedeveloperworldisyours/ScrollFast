@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ScrollFast</string>
+    <string name="app_name">ScrollFastWithoutStyle</string>
 
     <string-array name="fruits_array">
         <item>Apples</item>
