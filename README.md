@@ -4,7 +4,7 @@ Scroll Fast
 You can find more information in this **[blog](http://thedeveloperworldisyours.com/android/fast-scroll-in-listview/#sthash.nF7KsTal.dpbs)**.
 
 <p align="center">
- <img src="https://github.com/CabezasGonzalezJavier/ScrollFast/blob/master/scrollFast.gif" width="300px" />
+ <img src="https://github.com/CabezasGonzalezJavier/ScrollFast/blob/master/scrollFastWithoutStyle.gif" width="300px" />
 </p>
 
 Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
